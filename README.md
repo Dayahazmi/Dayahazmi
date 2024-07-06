@@ -6,6 +6,7 @@ I am a software engineer at [Vista Summerose](https://vista-summerose.com.my/), 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Dayahazmi&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayahazmi)](https://github.com/Dayahazmi/github-readme-stats)
 
 ---
