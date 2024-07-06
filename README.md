@@ -6,7 +6,8 @@ I am a software engineer at [Vista Summerose](https://vista-summerose.com.my/), 
 
 ---
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Dayahazmi&show_icons=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayahazmi)](https://github.com/Dayahazmi/github-readme-stats)
-
+<p align=center>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Dayahazmi&show_icons=true&theme=cobalt" width="400">
+<img alt="my language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayahazmi&show_icons=true&theme=cobalt&layout=compact" >
+</p>
 ---
