@@ -1,5 +1,5 @@
 # Hi 👋 I am Hidayah! 
-I am a software engineer at [Vista Summerose](https://vista-summerose.com.my/), where I develop a mobile application using Flutter for Frontend and Nodejs as Backend.
+Now I'm on a career break but I'm develop a few applications and websites.
 
 - 🌐 Visit my [portfolio website](https://dayahazmi.github.io/Portfolio_hidayah/) for more information and to get in touch.
 - ✍️ Follow me on [Social Media](https://dayahazmi.github.io/Social_Links/) to know me well or contact me.
